@@ -1,0 +1,13 @@
+body{
+    background-image: url("b3.jpg");
+    background-size: cover;
+}
+
+.card{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-left: 35%;
+    margin-top: 22%;
+}

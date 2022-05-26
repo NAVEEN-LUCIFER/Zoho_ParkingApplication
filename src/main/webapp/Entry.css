@@ -1,0 +1,57 @@
+.header{
+    margin-top:5%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: teal;
+}
+.container{
+    margin-top: 1%;
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    /*background-color: darkblue;*/
+}
+
+#bt1{
+    margin-top:5%;
+    /*position: unset;*/
+    /*margin: 0;*/
+    /*display: flex;*/
+    /*!*flex-direction: column;*!*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    /*-ms-transform: translate(-50%, -50%);*/
+    /*transform: translate(-50%, -50%);*/
+}
+
+#bt2{
+    margin-top:5%;
+    /*position: unset;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*-ms-transform: translate(-50%, -50%);*/
+    /*transform: translate(-50%, -50%);*/
+}
+
+#name{
+    margin-top: 5%;
+}
+
+#no{
+    margin-top: 5%;
+}
+#type{
+    margin-top: 5%;
+}
+#date{
+    margin-top: 5%;
+}
+#lot{
+    margin-top: 5%;
+}

@@ -1,0 +1,52 @@
+
+#head{
+    padding-bottom: 5%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+td{
+    padding-top: 5px;
+}
+.c1{
+    margin-left: 15px;
+}
+
+table{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#sub{
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0 0 50px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+#bac{
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0 0 50px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+
+#del{
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 20px 0 50px;
+    border: none;
+    cursor: pointer;
+    width: 50%;
+}
+#bac:hover{
+    background-color: darkred;
+}
+#sub:hover{
+    background-color: darkgreen;
+}
